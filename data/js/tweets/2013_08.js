@@ -1033,7 +1033,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "371788608706838529",
   "text" : "RT @notmojang: Here's a sneak preview of Trolljang's latest game, #Scrolls: http:\/\/t.co\/X61e6xbs7z",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1129,7 +1129,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "371542161998635008",
   "text" : "RT @notmojang: BBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\nBBQ\n@jonnylii @SethMacMi\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "jonny",
@@ -1281,7 +1281,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "TehGamingPotato",
       "protected" : false,
       "id_str" : "500379141",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415126589274611712\/VAI_lzS9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479644782130511873\/3vrmQTaG_normal.jpeg",
       "id" : 500379141,
       "verified" : false
     }
@@ -1315,7 +1315,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "371398879180107776",
   "text" : "RT @BenKuchera: You can just go buy stuff like a trampoline as an adult. They don't ask for ID or to speak to your parents or nothing. They\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1332,7 +1332,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "BenKuchera",
       "protected" : false,
       "id_str" : "14575846",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422899236443672576\/6UDJaFJv_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483676755354333186\/DY4bBVdQ_normal.png",
       "id" : 14575846,
       "verified" : true
     }
@@ -1349,7 +1349,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Direwolf20",
@@ -1460,57 +1460,6 @@ Grailbird.data.tweets_2013_08 =
   "created_at" : "2013-08-19 03:22:27 +0000",
   "in_reply_to_screen_name" : "Shootthekillcod",
   "in_reply_to_user_id_str" : "368464582",
-  "user" : {
-    "name" : "Alexander",
-    "screen_name" : "mralext20",
-    "protected" : false,
-    "id_str" : "905041434",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461388187437244416\/cy1iNBZk_normal.jpeg",
-    "id" : 905041434,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kline",
-      "screen_name" : "TheCultofKLINE",
-      "indices" : [ 3, 18 ],
-      "id_str" : "1059463488",
-      "id" : 1059463488
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "368858530532450304",
-  "text" : "RT @TheCultofKLINE: If this tweet gets to 50 retweets. yes 50. i will tweet out a pic of my six-pack. (but as soon as i get to my phone :P)",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "368567819790581761",
-    "text" : "If this tweet gets to 50 retweets. yes 50. i will tweet out a pic of my six-pack. (but as soon as i get to my phone :P)",
-    "id" : 368567819790581761,
-    "created_at" : "2013-08-17 02:59:50 +0000",
-    "user" : {
-      "name" : "Kline",
-      "screen_name" : "TheCultofKLINE",
-      "protected" : false,
-      "id_str" : "1059463488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469241164911353856\/d8eOY91t_normal.jpeg",
-      "id" : 1059463488,
-      "verified" : false
-    }
-  },
-  "id" : 368858530532450304,
-  "created_at" : "2013-08-17 22:15:01 +0000",
   "user" : {
     "name" : "Alexander",
     "screen_name" : "mralext20",
@@ -1827,7 +1776,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[ZC] Parker",
+      "name" : "Peter Parker",
       "screen_name" : "SerperiorCraft",
       "indices" : [ 3, 18 ],
       "id_str" : "1380771122",
@@ -1847,7 +1796,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "366475286814007296",
   "text" : "RT @SerperiorCraft: I'VE GOT IT!!! @jpgaming , log into your MCForums account \"JoePassGaming\" and post something on your profile. RT!!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "JoePassGaming",
@@ -1866,11 +1815,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 366474093882642432,
     "created_at" : "2013-08-11 08:20:07 +0000",
     "user" : {
-      "name" : "[ZC] Parker",
+      "name" : "Peter Parker",
       "screen_name" : "SerperiorCraft",
       "protected" : false,
       "id_str" : "1380771122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469649811596013569\/QRIbJk7g_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481614551213830144\/HD30Vzew_normal.png",
       "id" : 1380771122,
       "verified" : false
     }
@@ -2237,7 +2186,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -2324,11 +2273,11 @@ Grailbird.data.tweets_2013_08 =
     "id" : 365682662435856384,
     "created_at" : "2013-08-09 03:55:15 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -2560,7 +2509,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "365587348576141312",
   "text" : "RT @BlueSonikku: WARNING!! WARNING!! DO NOT BUY SHOES FROM http:\/\/t.co\/lYTxWLDiph THE SITE IS FRAUDULENT!! I'm having to work with VISA to \u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2582,7 +2531,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "BlueSonikku",
       "protected" : false,
       "id_str" : "320021785",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/465720255268941825\/qzt_Bshw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481324394149466112\/o3un4Dfu_normal.jpeg",
       "id" : 320021785,
       "verified" : false
     }
@@ -2686,7 +2635,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "365512508674551809",
   "text" : "RT @jbernhardsson: 0.7.3 adds sun, moon, stars, double chests, quartz slabs, a cooler title screen and Realms improvements. Also fixes a fe\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2720,7 +2669,7 @@ Grailbird.data.tweets_2013_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Taylor Harris",
@@ -2737,7 +2686,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "364173704495771651",
   "text" : "RT @AntVenom: OMG, Minecraft just added all the versions of MC back to beta 1.0 to the launcher. Gotta check 2 boxes for em, but still! DOO\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

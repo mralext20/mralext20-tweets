@@ -3,7 +3,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lambo",
+      "name" : "Lambo \/ Josh",
       "screen_name" : "_Lambo_16",
       "indices" : [ 0, 10 ],
       "id_str" : "1402913065",
@@ -42,7 +42,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brandon",
+      "name" : "BW Sullivan ",
       "screen_name" : "BWSullivan123",
       "indices" : [ 0, 14 ],
       "id_str" : "319332370",
@@ -268,7 +268,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Life Tips",
@@ -316,7 +316,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "383083538",
       "id" : 383083538
     }, {
-      "name" : "\u266A Kartoffel \u266A",
+      "name" : "Papyro",
       "screen_name" : "PapyroKinesis",
       "indices" : [ 23, 37 ],
       "id_str" : "637227449",
@@ -373,7 +373,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "383083538",
       "id" : 383083538
     }, {
-      "name" : "\u266A Kartoffel \u266A",
+      "name" : "Papyro",
       "screen_name" : "PapyroKinesis",
       "indices" : [ 23, 37 ],
       "id_str" : "637227449",
@@ -415,7 +415,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Thunderclap",
@@ -897,7 +897,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "384091376272424960",
   "text" : "RT @zhuowei: @EA_Roa @C0deH4cker NOT FAIR THEY JUST COPIED @NOKIA LOL APPLE CANT COME UP WITH ONE IDEA",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Efrain Ayllon Roa",
@@ -1569,7 +1569,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "383051810837000192",
   "text" : "RT @zhuowei: To this person who DIRECTLY LINKED TO @KsyMC's script and claimed he made it: Touching live electrical wires is fun. http:\/\/t.\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "KsyMC",
@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -1749,7 +1749,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Samantha Myers",
@@ -2114,7 +2114,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3070,7 +3070,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "381998904503308288",
   "text" : "RT @uSCOTTpwnd: @Marc_IRL I think he might need 7 more blocks of wood.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Marc Watson",
@@ -3555,7 +3555,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "381643798721212416",
   "text" : "RT @zhuowei: @callumwizardton @bflems @madlyjones Today I learned there are actual Google+ users.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Callum Middleton",
@@ -3998,7 +3998,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "380856558717911040",
   "text" : "RT @zhuowei: If you want ModPE scripting on both Android and iOS to evolve faster, tweet @_tomcc @jbernhardsson with hashtag #letusmod. Ret\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Tommaso Checchi",
@@ -4112,7 +4112,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "380853046969774081",
   "text" : "RT @byteandahalf: @Scary_Enderman Just learned something today: @zhuowei Is the only person on Earth that uses linux.\n\n#OMGlolHadNoIdea",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "TehEnderman",
@@ -4359,7 +4359,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "C0deH4cker",
@@ -4425,7 +4425,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Life Tips",
@@ -4458,7 +4458,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Wolv",
@@ -4702,13 +4702,7 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "LL007",
-      "screen_name" : "LLom007",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1858867316",
-      "id" : 1858867316
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4763,13 +4757,7 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "LL007",
-      "screen_name" : "LLom007",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1858867316",
-      "id" : 1858867316
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4876,7 +4864,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "379443776546029568",
   "text" : "RT @Direwolf20: I\"m going to make a windows profile called 'Direwolf20' for my next desktop video! That'll teach ya!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5095,7 +5083,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "Tht_KodakMoment",
       "protected" : false,
       "id_str" : "482586683",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421767202862153728\/o1wWvWcG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480836593490468864\/-u2_VZ1V_normal.jpeg",
       "id" : 482586683,
       "verified" : false
     }
@@ -5328,7 +5316,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "379174359299915776",
   "text" : "RT @smartereveryday: We had a party for the 100th episode!  Enjoy!  http:\/\/t.co\/4GlREm4Tj7",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6256,7 +6244,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brice",
+      "name" : "Brice GoldSolace",
       "screen_name" : "GoldSolace",
       "indices" : [ 0, 11 ],
       "id_str" : "527167129",
@@ -6829,7 +6817,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sam",
@@ -7643,7 +7631,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -7730,11 +7718,11 @@ Grailbird.data.tweets_2013_09 =
     "id" : 375095911598546944,
     "created_at" : "2013-09-04 03:20:08 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }

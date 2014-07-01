@@ -249,7 +249,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "362326657912160256",
   "text" : "RT @Marc_IRL: Friends don't let friends build with cobblestone.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -813,7 +813,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "361063026771759105",
   "text" : "RT @SethBling: Well, I guess now I need to pick out a spot on my wall for a Gold Play Button.\n\nThanks to every one of the million that have\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1312,7 +1312,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "536049393",
       "id" : 536049393
     }, {
-      "name" : "SkyDoesMinecraft",
+      "name" : "Adam ",
       "screen_name" : "SkyDoesMinecraf",
       "indices" : [ 96, 112 ],
       "id_str" : "537004797",
@@ -1358,7 +1358,7 @@ Grailbird.data.tweets_2013_07 =
         "id_str" : "536049393",
         "id" : 536049393
       }, {
-        "name" : "SkyDoesMinecraft",
+        "name" : "Adam ",
         "screen_name" : "SkyDoesMinecraf",
         "indices" : [ 75, 91 ],
         "id_str" : "537004797",
@@ -1489,7 +1489,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "360377261918130177",
   "text" : "RT @tonystark23: @googleglass Take a read, this has made me now not want a Glass. Everyone should not bother spending the money.. https:\/\/t\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Google Glass",
@@ -1702,7 +1702,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 360316837235392512,
   "in_reply_to_status_id" : 360316211189391362,
   "created_at" : "2013-07-25 08:33:23 +0000",
-  "in_reply_to_screen_name" : "Sky_Craft99",
+  "in_reply_to_screen_name" : "SirSkyCraft",
   "in_reply_to_user_id_str" : "1515345608",
   "user" : {
     "name" : "Alexander",
@@ -1790,7 +1790,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0421\u0442\u0440\u044F\u043F\u0447\u0438\u0439 \u0418\u0432\u0430\u043D",
+      "name" : "Onlyadirector",
       "screen_name" : "Onlyadirector",
       "indices" : [ 0, 14 ],
       "id_str" : "2518580910",
@@ -1847,7 +1847,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 360195240214278144,
   "in_reply_to_status_id" : 360194868234043392,
   "created_at" : "2013-07-25 00:30:12 +0000",
-  "in_reply_to_screen_name" : "SodaDoesFapping",
+  "in_reply_to_screen_name" : "SodaPlays",
   "in_reply_to_user_id_str" : "1542257828",
   "user" : {
     "name" : "Alexander",
@@ -3017,7 +3017,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "Mr_Llama_Man",
       "protected" : false,
       "id_str" : "1403474900",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000374602028\/f24ada0d423e2168099af73dfc488f6c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478370061464641536\/EtJm7__w_normal.jpeg",
       "id" : 1403474900,
       "verified" : false
     }
@@ -3120,7 +3120,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "sevendeadlywins",
       "protected" : false,
       "id_str" : "40445273",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464305057962655744\/ESjSY9CV_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483126613849014273\/Z_obw3Mf_normal.jpeg",
       "id" : 40445273,
       "verified" : false
     }
@@ -3344,7 +3344,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "359838564361580544",
   "text" : "RT @TipsForYouDaily: Pranking to the Extreme: http:\/\/t.co\/iTRUY9WP92",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -3574,7 +3574,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "PajamaBen_",
       "protected" : false,
       "id_str" : "388052215",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461009856653045760\/Z8UPgRXe_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/471757840193826817\/Wpf-TIxI_normal.png",
       "id" : 388052215,
       "verified" : false
     }
@@ -3685,7 +3685,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "GoogleFacts",
       "protected" : false,
       "id_str" : "559675462",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000428482986\/c73289fa9f0ec515e50f1a870c244645_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477918829528350720\/G7N0lnxM_normal.jpeg",
       "id" : 559675462,
       "verified" : false
     }
@@ -3861,7 +3861,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -3948,11 +3948,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 359746034613755905,
     "created_at" : "2013-07-23 18:45:13 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -4047,7 +4047,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "359771284122509313",
   "text" : "RT @_tomcc: So I've added the yellow bouncing text on the main menu of MCPE. Yes, yes, you don't need to thank me",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4131,7 +4131,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "359749538656948224",
   "text" : "RT @jonnylii: Queen Sassmaster: why are calendars so popular\nQueen Sassmaster: they have a lot of dates",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4148,7 +4148,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "jonnylii",
       "protected" : false,
       "id_str" : "54810887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468317221547020289\/CttsEEVM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483957732181946368\/V_gmiPDQ_normal.jpeg",
       "id" : 54810887,
       "verified" : false
     }
@@ -4212,7 +4212,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "359749245923901442",
   "text" : "RT @_tomcc: Here's a pic for the unbelievers, I'll just have to write all the splashes now.. I think I know why it wasn't there! http:\/\/t.c\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -5258,7 +5258,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "Only_a_director",
       "protected" : false,
       "id_str" : "306432291",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469162533413462017\/Y3pITV5P_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475676694284488704\/afWapIU7_normal.jpeg",
       "id" : 306432291,
       "verified" : false
     }
@@ -5301,7 +5301,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/SodaDoesFapping\/status\/358790872160165888\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/SodaPlays\/status\/358790872160165888\/photo\/1",
       "indices" : [ 139, 140 ],
       "url" : "http:\/\/t.co\/GGEwKZ3HPy",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BPquZbQCYAAJDwF.png",
@@ -5341,11 +5341,11 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "359219673889382400",
   "text" : "RT @SodasDesigns: #Retweet for your chance to win an icon like the one below! There will be only one winner! (Must be following me!) http:\/\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/SodaDoesFapping\/status\/358790872160165888\/photo\/1",
+        "expanded_url" : "http:\/\/twitter.com\/SodaPlays\/status\/358790872160165888\/photo\/1",
         "indices" : [ 115, 137 ],
         "url" : "http:\/\/t.co\/GGEwKZ3HPy",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BPquZbQCYAAJDwF.png",
@@ -5387,11 +5387,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 358790872160165888,
     "created_at" : "2013-07-21 03:29:44 +0000",
     "user" : {
-      "name" : "soda",
-      "screen_name" : "SodaDoesFapping",
+      "name" : "Soda from State Farm",
+      "screen_name" : "SodaPlays",
       "protected" : false,
       "id_str" : "1542257828",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463087364105961472\/SNN1ozAB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483332269566742528\/8LETpW_B_normal.jpeg",
       "id" : 1542257828,
       "verified" : false
     }
@@ -6326,7 +6326,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "358464070321586176",
   "text" : "RT @p0sixninja: People keep asking when iOS7 jailbreak will be released. Here's a little hint... after iOS7 is released ;)",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6876,7 +6876,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "358319540112859136",
   "text" : "RT @brooklyknight: The moment I put on @googleglass and was able to hear in my deaf ear for the FIRST time because of bone conducting techn\u2026",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Google Glass",
@@ -7610,7 +7610,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -7903,7 +7903,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -7934,7 +7934,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -8478,7 +8478,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "355875786483437571",
   "text" : "RT @BestProAdvice: http:\/\/t.co\/71XJUcpJJ7",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -8525,7 +8525,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "BestProAdvice",
       "protected" : false,
       "id_str" : "1305995330",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000515456152\/575a653a147853d3de6838d7645461e6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481891123569242113\/-yRJNptR_normal.jpeg",
       "id" : 1305995330,
       "verified" : false
     }
@@ -8565,7 +8565,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "355875238233387009",
   "text" : "RT @Max_Firestorm: @Direwolf20 Someone made a suggestion on the FB page of \"There's no place like 9x9\" for a shirt.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Direwolf20",
@@ -8759,7 +8759,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "355806812991275008",
   "text" : "RT @ChrisPirillo: Newsflash: There are NO gamer girls. There are, however, gamer HUMANS. Stop gender barriers! http:\/\/t.co\/PpX78mQovx http:\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -8896,7 +8896,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "355581288062779392",
   "text" : "RT @TypicalMinions: RT if you've seen Despicable Me 2!\n\nFAV if you want too!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9328,7 +9328,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "355119699912167426",
   "text" : "RT @BestProAdvice: If someone presses all of the buttons on an elevator, you can avoid stopping on each floor by pressing each button again\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9345,7 +9345,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "BestProAdvice",
       "protected" : false,
       "id_str" : "1305995330",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000515456152\/575a653a147853d3de6838d7645461e6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481891123569242113\/-yRJNptR_normal.jpeg",
       "id" : 1305995330,
       "verified" : false
     }
@@ -10769,7 +10769,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thelegodoge10",
+      "name" : "Thelegonerd10",
       "screen_name" : "thelegonerd10",
       "indices" : [ 0, 14 ],
       "id_str" : "902743752",
@@ -11418,7 +11418,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u26A0",
+      "name" : "Melissa \u2608",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -11454,7 +11454,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -11551,11 +11551,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353235639258456064,
     "created_at" : "2013-07-05 19:35:13 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -11575,7 +11575,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -11662,11 +11662,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353304861955211264,
     "created_at" : "2013-07-06 00:10:17 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -11686,7 +11686,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -11773,11 +11773,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353512038082961408,
     "created_at" : "2013-07-06 13:53:32 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -11797,7 +11797,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -11884,11 +11884,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353535065533321216,
     "created_at" : "2013-07-06 15:25:02 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -11908,7 +11908,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -11995,11 +11995,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353553974743408642,
     "created_at" : "2013-07-06 16:40:11 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -12019,7 +12019,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -12106,11 +12106,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353616882227609600,
     "created_at" : "2013-07-06 20:50:09 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -12130,7 +12130,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -12217,11 +12217,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353642097699586048,
     "created_at" : "2013-07-06 22:30:21 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -12241,7 +12241,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -12328,11 +12328,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353654626492489728,
     "created_at" : "2013-07-06 23:20:08 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -12352,7 +12352,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -12439,11 +12439,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 353667208938917889,
     "created_at" : "2013-07-07 00:10:08 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -12577,7 +12577,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa \u26A0",
+      "name" : "Melissa \u2608",
       "screen_name" : "0xabad1dea",
       "indices" : [ 0, 11 ],
       "id_str" : "126030998",
@@ -12673,7 +12673,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "153918448",
       "id" : 153918448
     }, {
-      "name" : "SkyDoesMinecraft",
+      "name" : "Adam ",
       "screen_name" : "SkyDoesMinecraf",
       "indices" : [ 26, 42 ],
       "id_str" : "537004797",
@@ -12769,7 +12769,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -13181,7 +13181,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "353039666787782656",
   "text" : "RT @jonnylii: @danthekarman @zhuowei keep talking about america and ill drive to ur house i know u live somewhere in greater vancouver fuker",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Zhuowei Zhang",
@@ -13204,7 +13204,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "jonnylii",
       "protected" : false,
       "id_str" : "54810887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468317221547020289\/CttsEEVM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483957732181946368\/V_gmiPDQ_normal.jpeg",
       "id" : 54810887,
       "verified" : false
     }
@@ -13238,7 +13238,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "353036364519968768",
   "text" : "RT @jonnylii: so i dont knwo about all of u but im having mcdonalds with obama today so yea",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -13255,7 +13255,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "jonnylii",
       "protected" : false,
       "id_str" : "54810887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468317221547020289\/CttsEEVM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483957732181946368\/V_gmiPDQ_normal.jpeg",
       "id" : 54810887,
       "verified" : false
     }
@@ -13347,7 +13347,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "352879399336550401",
   "text" : "RT @Eddie_Ruckus: Cubeworld GET!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -13381,7 +13381,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -13544,7 +13544,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -13608,7 +13608,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nathan Adams",
@@ -13860,7 +13860,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris",
@@ -13931,7 +13931,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris",
@@ -13962,7 +13962,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "C0deH4cker",
@@ -13995,7 +13995,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -14026,7 +14026,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Direwolf20",
@@ -14062,7 +14062,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "YouTube",
@@ -14095,7 +14095,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "jonny",
@@ -14211,7 +14211,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "352188060118695936",
   "text" : "RT @TwitchTVSupport: Ok, chat should be back in a matter of minutes. Hang in there. In the meantime, practice your Kappas and Frankerz.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -14256,7 +14256,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "352187035731230723",
   "text" : "RT @TwitchTVSupport: Chat appears to be down. We've reported.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -14307,7 +14307,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "352186341573935104",
   "text" : "RT @BFMiner: alright. I'm gonna follow 5 random people. fav and retweet to get an easy follower. ^_^",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -14352,7 +14352,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "352184397774073856",
   "text" : "RT @TwitchTVSupport: The site is coming back up. Back to your regular schedule programming.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -14386,10 +14386,10 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 0, 13 ],
       "id_str" : "1401009632",
@@ -14467,10 +14467,10 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "indices" : [ 3, 16 ],
       "id_str" : "1401009632",
@@ -14557,11 +14557,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 352170086091612160,
     "created_at" : "2013-07-02 21:01:06 +0000",
     "user" : {
-      "name" : "Life Pro Humor",
+      "name" : "Life Humor",
       "screen_name" : "BestProHumor",
       "protected" : false,
       "id_str" : "1401009632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419268228703977472\/zxAVHlGy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481836629380698112\/1bBcROtj_normal.png",
       "id" : 1401009632,
       "verified" : false
     }
@@ -14625,7 +14625,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "352162915752751104",
   "text" : "RT @MCPEPorts: RT if you want SkyGrid for MCPE. http:\/\/t.co\/Im9RuMKGU3",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -14689,7 +14689,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -14734,7 +14734,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -14779,7 +14779,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -14810,7 +14810,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -14841,7 +14841,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -14886,7 +14886,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "351945803314642944",
   "text" : "RT @BestProFacts: A pile of Neil Armstrong\u2019s poop is sitting somewhere on the moon.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -14920,7 +14920,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -14953,7 +14953,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zhuowei Zhang",
@@ -14984,7 +14984,7 @@ Grailbird.data.tweets_2013_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jens Bergensten",
